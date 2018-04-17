@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html>
+<!--Loading-->
+<title>Peogress Bar</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="Style.css">
+<script type="text/javascript" src="Javascript.js"></script>
+<body>
+
+<div class="w3-container">
+<div id="myProgress">
+  <div id="myBar"></div>
+</div>
+<br>
+<button onclick="move()">Click Me</button>
+</body>
+</html>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/naufals4/Loading/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
