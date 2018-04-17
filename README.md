@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <!--Loading-->
 <title>Peogress Bar</title>
