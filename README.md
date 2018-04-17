@@ -12,5 +12,3 @@
 </div>
 <br>
 <button onclick="move()">Click Me</button>
-</body>
-</html>
